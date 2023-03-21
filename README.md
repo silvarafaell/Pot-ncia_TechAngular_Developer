@@ -14,3 +14,9 @@
 ### Importação e Exportação com JavaScript
 - Require
 - Module.exports 
+
+### Introdução ao Desenvolvimento Web com JavaScript
+- npm install -g http-server
+- HTML nos da parte textual e a semantica
+- CSS nos da os estilos
+- JavaScript é o que da o comportamento
