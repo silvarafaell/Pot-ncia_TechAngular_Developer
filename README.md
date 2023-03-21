@@ -8,3 +8,5 @@
 - Funções - Sao pequenos trechos de codigos que podemos invocar a qualquer momentos que quisermos. 
 
 ### Criando Objetos e Classes em JavaScript
+
+### Arrays e Estruturas de Repetição em JavaScript
