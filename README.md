@@ -10,3 +10,7 @@
 ### Criando Objetos e Classes em JavaScript
 
 ### Arrays e Estruturas de Repetição em JavaScript
+
+### Importação e Exportação com JavaScript
+- Require
+- Module.exports 
