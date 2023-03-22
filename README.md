@@ -20,3 +20,5 @@
 - HTML nos da parte textual e a semantica
 - CSS nos da os estilos
 - JavaScript é o que da o comportamento
+
+### Criando um Projeto com HTML/CSS para Listagem de Pokemon
