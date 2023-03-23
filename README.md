@@ -22,3 +22,6 @@
 - JavaScript é o que da o comportamento
 
 ### Criando um Projeto com HTML/CSS para Listagem de Pokemon
+
+### Dominando o Protocolo HTTP e Integrando com a PokeAPI
+
