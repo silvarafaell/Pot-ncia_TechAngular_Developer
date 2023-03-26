@@ -27,3 +27,6 @@
 
 ### Trabalhando com Web Components no Front-end
 
+### TypeScript para Angular
+
+
