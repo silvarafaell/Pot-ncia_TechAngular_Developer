@@ -28,5 +28,5 @@
 ### Trabalhando com Web Components no Front-end
 
 ### TypeScript para Angular
-
+- TypeScript é SUPERSET para o JAVASCRIPT(Tipar o JS, conseguir ver erros no tempo do desenvolvimento, dá mais poder a classes, Interfaces, Enums) 
 
