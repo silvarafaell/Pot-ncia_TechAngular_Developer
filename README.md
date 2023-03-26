@@ -25,3 +25,5 @@
 
 ### Dominando o Protocolo HTTP e Integrando com a PokeAPI
 
+### Trabalhando com Web Components no Front-end
+
