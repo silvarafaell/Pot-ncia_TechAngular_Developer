@@ -29,4 +29,10 @@
 
 ### TypeScript para Angular
 - TypeScript é SUPERSET para o JAVASCRIPT(Tipar o JS, conseguir ver erros no tempo do desenvolvimento, dá mais poder a classes, Interfaces, Enums) 
+- npm install -g typescript 
+- TypeScript tem o Tipo TS
+- npx tsc src/index.ts
+- npx tsc --init(Cria o arquivo TSCONFIG.json)
+- Funções(É possivel tipar os parametros da função)
+- Interfaces - São Contratos quem herdar o contrato vai seguir o que tem no contrato. 
 
