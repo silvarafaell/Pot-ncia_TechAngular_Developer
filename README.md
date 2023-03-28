@@ -52,4 +52,6 @@
 - Roteamento é responsável pela forma de navegar fazendo a troca de URL sem Recarregar a página, mudando somente os componentes que são mostrados.
 - Renderização é responsável por decidir a melhor maneira de acessar e entregar para o browser o componente pronto.
 
+### Trabalhando com Componentes Angular
+
 
