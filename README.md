@@ -37,4 +37,19 @@
 - Interfaces - São Contratos quem herdar o contrato vai seguir o que tem no contrato. 
 
 ### Introdução ao Ecossistema Angular
+- Principal Framework da Google
+- Framework baseado em Javascript
+- Typescript como linguagem principal
+- SPAs - são o seu foco
+- Componentes são a base da arquitetura
+- Estrutura organizada é bem definida
+- Sistema de Tooling muito rico: CLI, HTTP,Router
+- 4 Camadas de um Web APP(Componentes, gerenciamento de estado, roteamento, renderização)
+- Componente é um elemento visual, customizavel e reutilizavel(exemplo card na tela, botão)
+- Gerenciamento de estado é responsável por garantir que as informações dos componentes não estão dessincronizadas e 
+  facilitar a comunicação de um componente com outro(ex: Atualizar o carrinho de compras ao clicar no botão de comprar de produto). No angular temos as ferramentas
+  NGRX e NGXS
+- Roteamento é responsável pela forma de navegar fazendo a troca de URL sem Recarregar a página, mudando somente os componentes que são mostrados.
+- Renderização é responsável por decidir a melhor maneira de acessar e entregar para o browser o componente pronto.
+
 
