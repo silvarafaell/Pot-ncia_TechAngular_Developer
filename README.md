@@ -60,5 +60,11 @@
 - Module é gavetinha onde se coloca os componentes que você vai utilizar. 
 
 ### LifeCycle Hooks Angular
+- Extensão Visual Studio Code(Angular Language Service, Auto Close Tag, Auto Rename Tag, Material Icon Theme, Prettier - Code Formatter)
+- npm install -g @angular/cli@14.1.2
+- npm install -g @angular/cli
+- ng new life-cycle
+- ng serve > para executar
+- ng generate component title
 
 
