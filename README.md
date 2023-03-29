@@ -53,5 +53,10 @@
 - Renderização é responsável por decidir a melhor maneira de acessar e entregar para o browser o componente pronto.
 
 ### Trabalhando com Componentes Angular
+- Componentes é um elemento que seja visual, customizável e replicável. 
+- Componente é o atomo da sua aplicação. 
+- Componente é uma função JS/TS que retorna HTML, CSS e Carrega eventos Javascript junto.
+- Tudo que está dentro da src(são o codigo fonte, o que vamos codar) e fora dela são arquivos de configuração. 
+- Module é gavetinha onde se coloca os componentes que você vai utilizar. 
 
 
