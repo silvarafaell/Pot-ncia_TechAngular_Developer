@@ -59,4 +59,6 @@
 - Tudo que está dentro da src(são o codigo fonte, o que vamos codar) e fora dela são arquivos de configuração. 
 - Module é gavetinha onde se coloca os componentes que você vai utilizar. 
 
+### LifeCycle Hooks Angular
+
 
