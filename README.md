@@ -69,4 +69,6 @@
 - Os 8 Hoocks de LifeCycle de Hooks(ngOnInit, ngOnChanges, ngDoCheck(ngAfterContentInit, ngAfterContentChecked, ngAfterViewInit), ngOnDestroy)
 - ngOnInit é executado assim que o componente nasce. 
 
+### Single Page Application com Angular
+
 
