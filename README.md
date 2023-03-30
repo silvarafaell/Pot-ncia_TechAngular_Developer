@@ -66,5 +66,7 @@
 - ng new life-cycle
 - ng serve > para executar
 - ng generate component title
+- Os 8 Hoocks de LifeCycle de Hooks(ngOnInit, ngOnChanges, ngDoCheck(ngAfterContentInit, ngAfterContentChecked, ngAfterViewInit), ngOnDestroy)
+- ngOnInit é executado assim que o componente nasce. 
 
 
