@@ -78,6 +78,8 @@
 - Diretivas estruturais - Moldam ou remodelam a estrutura da DOM, adicionando ou removendo elementos na tela. 
   - NgIf - Condicional que verifica se modelo deve ser visualizado ou nao
   - NgFor - repete um elemento para cada item em uma lista
-  - NgSwitch - Utilizado para alternar entre comportamentos alternativos. 
+  - NgSwitch - Utilizado para alternar entre comportamentos alternativos.
+  
+ - ng new diretivas-proj
 
 
