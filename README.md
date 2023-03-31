@@ -81,5 +81,5 @@
   - NgSwitch - Utilizado para alternar entre comportamentos alternativos.
   
  - ng new diretivas-proj
-
+ - ng g c comp-atributos
 
