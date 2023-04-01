@@ -86,3 +86,5 @@
 ### Módulos Angular
 - Module é possivel guardar componentes, diretivas, pipes e services. 
 - É possivel criar submodules e no module principal importar esses submodules. 
+- ng g m lista
+- ng g c lista/input
