@@ -1,0 +1,17 @@
+<p [ngClass]="estilo">comp-atributos works!</p>
+<button (click)="trocar()">CHANGE</button>
+<h1 [ngStyle]="{'background':corFundo}">Curso Angular</h1>
+
+<h1>Lista de compras</h1>
+<p>Adicione um item</p>
+<input type="text" [(ngModel)]="item">
+<button (click)="adicionarLista()">Adicionar</button>
+<p>{{ item }}</p>
+
+<hr>
+
+<!-- POR PADRÃO VEM SEMPRE DESABILITADO -->
+<!-- MOSTRA SE TIVER TRUE, UMA CONDIÇÃO -->
+<ng-template [ngIf]="true">
+    <a href="#">FINALIZAR COMPRA</a>
+</ng-template>
