@@ -88,3 +88,14 @@
 - É possivel criar submodules e no module principal importar esses submodules. 
 - ng g m lista
 - ng g c lista/input
+
+### Criando um Blog com Angular
+- dribbble.com ideias para projetos Imagens
+- Programa Just Color Picker - pegar cor de qualquer elemento na tela
+- ng new angular-blog
+- Tem que saber o que fazer antes de colocar a mão no codigo. 
+- ng g c components/menu-bar
+- ng g c components/menu-title
+- ng g c components/big-card
+- ng g c components/small-card
+- ng g c pages/home
