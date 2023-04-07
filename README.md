@@ -108,3 +108,4 @@
 
 - ng g c pages/index/title
 - ng g c pages/portifolio/card
+- ng g c shared/menu
