@@ -8,7 +8,7 @@ const routes: Routes = [
     path: '', component: TitleComponent, pathMatch: 'full'
   },
   {
-    path: 'portfolio', component: CardComponent, pathMatch: 'prefix'
+    path: 'portfolio/:id', component: CardComponent, pathMatch: 'prefix'
   },
   {
     path: '*', redirectTo: ''
