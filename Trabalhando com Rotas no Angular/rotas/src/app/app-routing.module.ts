@@ -9,7 +9,11 @@ const routes: Routes = [
   },
   {
     path: 'portfolio', component: CardComponent, pathMatch: 'prefix'
+  },
+  {
+    path: '*', redirectTo: ''
   }
+
 ];
 
 @NgModule({
