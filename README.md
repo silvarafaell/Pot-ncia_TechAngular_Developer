@@ -100,3 +100,5 @@
 - ng g c components/small-card
 - ng g c pages/home
 - ng g c pages/content
+
+### Trabalhando com Rotas no Angular
