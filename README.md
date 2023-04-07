@@ -102,3 +102,9 @@
 - ng g c pages/content
 
 ### Trabalhando com Rotas no Angular
+- ng new rotas
+- ng g m pages/index
+- ng g m pages/portifolio
+
+- ng g c pages/index/title
+- ng g c pages/portifolio/card
