@@ -109,3 +109,8 @@
 - ng g c pages/index/title
 - ng g c pages/portifolio/card
 - ng g c shared/menu
+
+### Trabalhando com Services no Angular
+- Services sao para a regra de negocio a parte logica, componente apenas para renderizar para o usuario. 
+- Um Service pode servir a N Componentes
+- Criar um Service especialista em alguma coisa(Por exemplo consumir uma api ou um microserviço)
