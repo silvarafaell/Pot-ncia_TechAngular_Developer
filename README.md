@@ -99,3 +99,4 @@
 - ng g c components/big-card
 - ng g c components/small-card
 - ng g c pages/home
+- ng g c pages/content
