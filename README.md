@@ -115,3 +115,5 @@
 - Um Service pode servir a N Componentes
 - Criar um Service especialista em alguma coisa(Por exemplo consumir uma api ou um microserviço)
 - environment serve para guardar valores de variaveis(api, conexão ao banco)
+
+### Criando um Clone do BuzzFeed com Angular
