@@ -117,3 +117,6 @@
 - environment serve para guardar valores de variaveis(api, conexão ao banco)
 
 ### Criando um Clone do BuzzFeed com Angular
+- ng new projeto-buzzfeed
+- ng g c components/quizz
+- ng g c pages/home
